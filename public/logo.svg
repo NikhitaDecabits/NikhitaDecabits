@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="179.954" height="54.666" viewBox="0 0 179.954 54.666">
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="54.666" viewBox="0 0 300.954 54.666">
   <g id="Group_1" data-name="Group 1" transform="translate(-166.288 -428)">
     <path id="Path_1" data-name="Path 1" d="M167.466,444.917l33.2-16.793a1.119,1.119,0,0,1,1.624.8,1.214,1.214,0,0,1,.011.161v34.7a1.183,1.183,0,0,1-1.178,1.188H167.466a1.183,1.183,0,0,1-1.178-1.188V446.43A1.991,1.991,0,0,1,167.466,444.917Z" transform="translate(0 0)" fill="#2676a2"/>
     <path id="Path_2" data-name="Path 2" d="M223.473,510.725l33.2-16.793a1.119,1.119,0,0,1,1.624.8,1.19,1.19,0,0,1,.011.161v34.7a1.183,1.183,0,0,1-1.178,1.188H223.473a1.183,1.183,0,0,1-1.178-1.188V512.238A1.99,1.99,0,0,1,223.473,510.725Z" transform="translate(-40.944 -48.109)" fill="#339bc9" opacity="0.75"/>
-    <text id="RENTERS" transform="translate(233.242 474.336)" fill="#00092e" font-size="40" font-family="AbrahamDemo, Abraham Demo"><tspan x="0" y="0">RENTERS</tspan></text>
+    <text id="RENTERS" fill="#00092e" transform="translate(233.242 474.336)" font-size="40" font-family="AbrahamDemo, Abraham Demo"><tspan x="0" y="0">RENTERS</tspan></text>
   </g>
 </svg>
