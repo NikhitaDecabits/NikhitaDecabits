@@ -98,7 +98,7 @@ export const Logo = () => {
   return (
     <img
       className={classes.logo}
-      src={`/logo_${palette.type === 'light' ? 'dark' : 'light'}.png`}
+      src={`/logo.svg`}
       alt="logo"
     />
   )
